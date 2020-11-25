@@ -10,10 +10,11 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed by Vinícius Coelho for studying purposes with the following technologies:
 
 -  [React Native](https://reactnative.dev/)
 -  [Expo](https://expo.io/)
+-  [TypeScript](https://www.typescriptlang.org/)
 -  [React Navigation](https://reactnavigation.org/)
 -  [styled-components](https://www.styled-components.com/)
 -  [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
