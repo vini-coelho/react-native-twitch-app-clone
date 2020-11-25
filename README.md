@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React Native Twitch.tv" src="https://res.cloudinary.com/dhcpizhbr/image/upload/v1606341394/readme-assets/TwitchExtrudedWordmarkPurple_y3mimi.svg" />
+    <img alt="React Native Twitch.tv" width="300px" src="https://res.cloudinary.com/dhcpizhbr/image/upload/v1606341394/readme-assets/TwitchExtrudedWordmarkPurple_y3mimi.svg" />
     <br>
     React Native Twitch.tv App Clone
 </h1>
@@ -36,3 +36,8 @@ $ yarn install
 # Start the bundler
 $ yarn start
 ```
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
